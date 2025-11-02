@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Niisari/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Niisari/recipe-page-main)
+- Live Site URL: [Simple Recipe Page](https://niisari.github.io/recipe-page-main/)
 
 ### Built with
 
@@ -41,7 +41,7 @@ I want to include javascript functionality in future to make the website be more
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - I used this site a lot for better understanding when i had issues with margin/padding and positioning lists.
+- [w3schools](https://www.w3schools.com/) - I used this site a lot for better understanding when i had issues with margin/padding and positioning lists.
 
 ## Author
 
