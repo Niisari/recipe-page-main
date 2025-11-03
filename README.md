@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Niisari/recipe-page-main)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/mobile-first-solution-NvAREKe-rS)
 - Live Site URL: [Simple Recipe Page](https://niisari.github.io/recipe-page-main/)
 
 ### Built with
